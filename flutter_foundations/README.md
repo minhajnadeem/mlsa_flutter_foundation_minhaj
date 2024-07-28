@@ -6,11 +6,4 @@ Task of 3 days bootcamp on Flutter Basics v1 powered by Microsoft Learn Student 
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![splash screen](https://github.com/minhajnadeem/mlsa_flutter_foundation_minhaj/blob/main/flutter_foundations/screenshots/mlsa_ss_1.jpg)
