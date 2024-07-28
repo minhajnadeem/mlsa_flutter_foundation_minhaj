@@ -1,6 +1,6 @@
-# flutter_foundations_01
+# MLSA Flutter Foundation
 
-A new Flutter project.
+Task of 3 days bootcamp on Flutter Basics v1 powered by Microsoft Learn Student Ambassadors -University of Karachi Led by Imaan Tahir.
 
 ## Getting Started
 
